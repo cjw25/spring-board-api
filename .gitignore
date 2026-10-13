@@ -1,0 +1,9 @@
+target/
+build/
+.gradle/
+.idea/
+*.iml
+data/
+.env
+*.log
+cookies*.txt
